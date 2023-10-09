@@ -6,6 +6,8 @@ sites:
     url: https://dechalaca.com
   - name: DeChalaca Media
     url: https://media.dechalaca.com
+  - name: DeChalaca Admin
+    url: https://dechalaca.com/portal/administrator/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
