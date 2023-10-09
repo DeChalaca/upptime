@@ -34,5 +34,23 @@
     "timeMonth": 543,
     "timeYear": 539,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "DeChalaca Admin",
+    "url": "https://dechalaca.com/portal/administrator/",
+    "icon": "https://icons.duckduckgo.com/ip3/dechalaca.com.ico",
+    "slug": "de-chalaca-admin",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 143,
+    "timeDay": 143,
+    "timeWeek": 143,
+    "timeMonth": 143,
+    "timeYear": 143,
+    "dailyMinutesDown": {}
   }
 ]
