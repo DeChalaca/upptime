@@ -40,19 +40,19 @@
     "url": "https://dechalaca.com/portal/administrator/",
     "icon": "https://icons.duckduckgo.com/ip3/dechalaca.com.ico",
     "slug": "de-chalaca-admin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 138,
-    "timeWeek": 141,
-    "timeMonth": 141,
-    "timeYear": 141,
+    "status": "up",
+    "uptime": "99.32%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
+    "time": 153,
+    "timeDay": 158,
+    "timeWeek": 153,
+    "timeMonth": 153,
+    "timeYear": 153,
     "dailyMinutesDown": {
-      "2023-10-10": 0
+      "2023-10-10": 11
     }
   }
 ]
