@@ -24,9 +24,9 @@
     "url": "https://media.dechalaca.com",
     "icon": "https://icons.duckduckgo.com/ip3/media.dechalaca.com.ico",
     "slug": "de-chalaca-media",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "97.02%",
+    "uptimeDay": "96.98%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.95%",
@@ -36,7 +36,7 @@
     "timeMonth": 664,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2023-10-14": 33,
+      "2023-10-14": 34,
       "2023-10-13": 10
     }
   },
@@ -46,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dechalaca.com.ico",
     "slug": "de-chalaca-admin",
     "status": "down",
-    "uptime": "82.43%",
-    "uptimeDay": "12.12%",
-    "uptimeWeek": "82.43%",
-    "uptimeMonth": "82.43%",
-    "uptimeYear": "82.43%",
+    "uptime": "82.29%",
+    "uptimeDay": "11.24%",
+    "uptimeWeek": "82.29%",
+    "uptimeMonth": "82.29%",
+    "uptimeYear": "82.29%",
     "time": 219,
     "timeDay": 115,
     "timeWeek": 219,
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2023-10-14": 1244,
+      "2023-10-14": 1257,
       "2023-10-13": 21,
       "2023-10-10": 11
     }
