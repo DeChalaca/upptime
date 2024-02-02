@@ -1,7 +1,7 @@
 url: https://dechalaca.com/portal/administrator/
-status: up
-code: 200
-responseTime: 102
-lastUpdated: 2024-02-02T23:01:50.823Z
+status: down
+code: 502
+responseTime: 154
+lastUpdated: 2024-02-02T23:45:21.260Z
 startTime: 2023-10-09T19:40:33.100Z
 generator: Upptime <https://github.com/upptime/upptime>
