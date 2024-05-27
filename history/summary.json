@@ -83,7 +83,7 @@
     "url": "https://dechalaca.com/portal/administrator/",
     "icon": "https://icons.duckduckgo.com/ip3/dechalaca.com.ico",
     "slug": "de-chalaca-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "95.62%",
     "uptimeDay": "93.38%",
     "uptimeWeek": "85.41%",
@@ -95,6 +95,7 @@
     "timeMonth": 4353,
     "timeYear": 932,
     "dailyMinutesDown": {
+      "2024-05-27": 0,
       "2024-05-26": 96,
       "2024-05-25": 178,
       "2024-05-24": 171,
