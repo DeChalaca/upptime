@@ -6,8 +6,19 @@ sites:
     url: https://dechalaca.com
   - name: DeChalaca Media
     url: https://media.dechalaca.com
-  - name: DeChalaca Admin
-    url: https://dechalaca.com/portal/administrator/
+  # Origin readiness: an uncached render of the PUBLIC path. Replaces the former
+  # "DeChalaca Admin" probe, which also reached the origin but watched the wrong
+  # surface -- administrator/index.php loads neither com_sef nor the frontend
+  # mambots, and both application outages on 2026-09-08 were fatals in exactly
+  # those, so the admin login answered 200 while every public page was a 500.
+  #
+  # The DeChalaca entry above polls the edge, where public HTML is cached for
+  # 5 minutes, so it lags the origin. This one always renders at the origin:
+  # 200 healthy, 500 application fault, 503 database down or maintenance.
+  #
+  # It also keeps the administrator login URL off this public status page.
+  - name: DeChalaca Origin
+    url: https://dechalaca.com/readyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
